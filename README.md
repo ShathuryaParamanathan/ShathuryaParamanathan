@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  📫 <a href="mailto:shathurya.paramanathan@gmail.com">shathurya.paramanathan@gmail.com</a> &nbsp;&nbsp;&nbsp; 📞 <a href="tel://94767890123/">+94 76 789 0123</a>
+  📫 <a href="mailto:shathurya.paramanathan@gmail.com">shathuparam27@gmail.com</a> &nbsp;&nbsp;&nbsp; 📞 <a href="tel://94767890123/">+94769481183</a>
 </p>
 
 ## 🌐 Socials:
