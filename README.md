@@ -1,101 +1,65 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Shathurya+Paramanathan!;" />
-</h1>
-<h3 align="center">A passionate Software & Data Engineering enthusiast.</h3>
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" height="35"> Hi, I'm Shathurya Paramanathan!
 
-<p align="left"> 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Software+Engineer;ML+Engineer;Tech+Enthusiast;" />
+</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shathurya21&label=Profile%20views&color=0e75b6&style=flat" alt="shathurya21" /> 
 </p>
 
-<p align="left">
-  Highly motivated third-year IT undergraduate at the University of Moratuwa with strong foundations in software development, data engineering, and machine learning. Skilled in problem-solving, critical thinking, and collaborating effectively within teams. Passionate about building impactful applications and data-driven solutions, and always eager to explore new technologies.
-</p>
+---
 
-<p align="left">
-  📫 <a href="mailto:shathurya.paramanathan@gmail.com">shathuparam27@gmail.com</a> &nbsp;&nbsp;&nbsp; 📞 <a href="tel://94767890123/">+94769481183</a>
-</p>
+## 💫 About Me
+ I am a dedicated **IT Undergraduate** at the **University of Moratuwa** with a strong foundation in programming and analytical skills[cite: 9, 22].  I am passionate about solving complex problems through data-driven solutions and machine learning.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shathurya-paramanathan) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/shathurya21) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shathurya21)
+-  🎓 **Academic Excellence:** Maintaining an **SGPA of 3.83 (Dean's List)**.
+-  🏢 **Professional Experience:** Recently completed a Software Engineering Internship at **COGNTIX**, working across Telecom, MediTech, and HR Tech domains.
+-  🚀 **Current Focus:** Developing scalable web applications and exploring ML modeling.
+-  🏛️ **Leadership:** Serving as the **Third Year Batch Representative** (2024/2025).
 
-## 📊 GitHub Stats:
+---
+
+## 🛠️ Technical Toolkit
+
+### 💻 Programming & Web Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📊 Data Science & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+ *Data Cleaning, Processing, Modeling, and Visualization*.
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Thrifting.lk](https://github.com/shathurya21)** | React, Express, MongoDB |  E-commerce platform for pre-owned items with full seller onboarding and product management dashboards. |
+| **[Expense Tracker](https://github.com/shathurya21)** | Next.js, Clerk, Drizzle |  Financial management tool featuring secure auth, real-time analytics, and visual spending reports. |
+| **[Candle Maker Auto](https://github.com/shathurya21)** | C, Arduino, Blender |  Hardware automation system to streamline candle production through precise firmware control. |
+| **[Task Master](https://github.com/shathurya21)** | MERN Stack |  Task management application to monitor progress and organize daily workflows. |
+
+---
+
+## 📈 My GitHub Stats
 <p align="center">
-  <img alt="shathurya21's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shathurya21?cardType=level&theme=dark&preferLogin=false" style="height: 200px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shathurya21&layout=compact&theme=dark" alt="Shathurya's top languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shathuryaparamanathan&show_icons=true&theme=radical&hide_border=true" alt="Shathurya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shathuryaparamanathan&layout=compact&theme=radical&hide_border=true" alt="Shathurya's Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+## 📫 Let's Connect!
 <p align="left">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+<a href="mailto:shathuparam27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shathurya-paramanathan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="tel:+94769481183"><img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="left">
-  <!-- Frameworks / Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Databases & Backend -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Cloud & DevOps -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+---
+ <p align="center"><i>"Passionate about solving complex problems and contributing to innovative projects." </i></p>
