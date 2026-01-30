@@ -11,12 +11,7 @@
 ---
 
 ## 💫 About Me
- I am a dedicated **IT Undergraduate** at the **University of Moratuwa** with a strong foundation in programming and analytical skills[cite: 9, 22].  I am passionate about solving complex problems through data-driven solutions and machine learning.
-
--  🎓 **Academic Excellence:** Maintaining an **SGPA of 3.83 (Dean's List)**.
--  🏢 **Professional Experience:** Recently completed a Software Engineering Internship at **COGNTIX**, working across Telecom, MediTech, and HR Tech domains.
--  🚀 **Current Focus:** Developing scalable web applications and exploring ML modeling.
--  🏛️ **Leadership:** Serving as the **Third Year Batch Representative** (2024/2025).
+A strong foundation in programming and analytical skills is maintained as a dedicated IT Undergraduate at the University of Moratuwa. A passion for solving complex problems is channeled through the development of data-driven solutions and machine learning. Expertise in developing and maintaining software applications is demonstrated through a focus on technical feasibility and business impact. Continuous improvement is supported by applying problem-solving and coding skills to optimize workflows and enhance efficiency
 
 ---
 
@@ -28,7 +23,7 @@
 
 ### 📊 Data Science & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
- *Data Cleaning, Processing, Modeling, and Visualization*.
+ 
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
